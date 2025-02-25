@@ -46,7 +46,7 @@ if user_achievement:
     st.balloons()
     st.success(f"🔥 Amazing! *{user_achievement}* is proof of your growth. Keep striving for more! 🚀")
 
-# Unique Footer
+#  Footer
 st.markdown("---")  # Divider line for a clean look
 
 st.markdown(
